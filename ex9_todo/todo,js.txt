@@ -1,0 +1,16 @@
+let todoList = [];
+
+class ListEntry{
+    #name;
+    let #done = false;
+
+    constructor(name)
+    {
+        this.#name = name;
+    }
+}
+
+addNewEntry(name)
+{
+    todoList.push(new ListEntry(name));
+}

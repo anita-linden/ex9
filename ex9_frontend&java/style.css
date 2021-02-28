@@ -1,0 +1,23 @@
+body{
+    margin-left: 2.5%;
+}
+
+.info{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3{
+    margin-left: 5%;
+}
+
+.outputBox{
+    margin-left: 5%;
+    background-color: rgb(216, 216, 216);
+    width: 90%; 
+    height: 400px;
+}
+
+.btn{
+    margin-left: 10%;
+}
